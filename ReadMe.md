@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Health Club CRM project.<br>👯 I’m looking to collaborate on Filament/Laravel projects.<br>🤝 I’m looking for help with Filament/Laravel.<br>🌱 I’m currently learning Filament 3.<br>💬 Do not hesitate to contact me about software developing.
+🔭 I’m currently working on a Health Club CRM project.<br>👯 I’m looking to collaborate on Filament/Laravel projects.<br>🤝 I’m always open to learning new tips and tricks in Filament/Laravel.<br>🌱 I’m currently learning Filament 3.<br>💬 Feel free to reach out to me about software development.
 
 
 ## 🌐 Socials:
